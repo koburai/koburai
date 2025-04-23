@@ -1,7 +1,9 @@
 ## Hello!
 
 I am currently a student at Spartanburg Community College, with the intent to get an associates degree in Applied Computer Science.
+
 I am able to program in Java, C#, C++ and Python; see my /main branch for details!
+
 You can reach me at awaddell60@sccsc.edu.
 
 <!--
